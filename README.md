@@ -99,7 +99,7 @@ See code for all available configurations.
 | [Asus ROG Zephyrus G15 GA502](asus/zephyrus/ga502)                     | `<nixos-hardware/asus/zephyrus/ga502>`                  |
 | [Asus ROG Zephyrus G15 GA503](asus/zephyrus/ga503)                     | `<nixos-hardware/asus/zephyrus/ga503>`                  |
 | [Asus ROG Zephyrus M16 GU603H](asus/zephyrus/gu603h)                   | `<nixos-hardware/asus/zephyrus/gu603h>`                 |
-| [Asus ROG Zephyrus M16 GU603ZM](asus/zephyrus/gu603zm)                   | `<nixos-hardware/asus/zephyrus/gu603zm>`                 |
+| [Asus ROG Zephyrus M16 GU603ZM](asus/zephyrus/gu603zm)                 | `<nixos-hardware/asus/zephyrus/gu603zm>`                |
 | [Asus TUF FX504GD](asus/fx504gd)                                       | `<nixos-hardware/asus/fx504gd>`                         |
 | [Asus TUF FX506HM](asus/fx506hm)                                       | `<nixos-hardware/asus/fx506hm>`                         |
 | [Asus TUF FA507RM](asus/fa507rm)                                       | `<nixos-hardware/asus/fa507rm>`                         |
@@ -321,7 +321,8 @@ See code for all available configurations.
 | [Supermicro X12SCZ-TLN4F](supermicro/x12scz-tln4f)                     | `<nixos-hardware/supermicro/x12scz-tln4f>`              |
 | [System76 (generic)](system76)                                         | `<nixos-hardware/system76>`                             |
 | [System76 Darter Pro 6](system76/darp6)                                | `<nixos-hardware/system76/darp6>`                       |
-| [System76 Gazelle Gaze18](system76/gaze18)                             | `<nixos-hardware/system76/gaze18>`                       |
+| [System76 Gazelle Gaze18](system76/gaze18)                             | `<nixos-hardware/system76/gaze18>`                      |
+| [Tianbei GEM12](tianbei/gem12)                                         | `<nixos-hardware/tianbei/gem12>`                        |
 | [Toshiba Chromebook 2 `swanky`](toshiba/swanky)                        | `<nixos-hardware/toshiba/swanky>`                       |
 | [Tuxedo InfinityBook v4](tuxedo/infinitybook/v4)                       | `<nixos-hardware/tuxedo/infinitybook/v4>`               |
 | [TUXEDO InfinityBook Pro 14 - Gen7](tuxedo/infinitybook/pro14/gen7)    | `<nixos-hardware/tuxedo/infinitybook/pro14/gen7>`       |
