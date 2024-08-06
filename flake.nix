@@ -294,6 +294,7 @@
         system76-gaze18 = import ./system76/gaze18;
         system76-galp5-1650 = import ./system76/galp5-1650;
         system76-darp6 = import ./system76/darp6;
+        tianbei-gem12 = import ./tianbei/gem12;
         toshiba-swanky = import ./toshiba/swanky;
         tuxedo-aura-15-gen1 = import ./tuxedo/aura/15/gen1;
         tuxedo-infinitybook-v4 = import ./tuxedo/infinitybook/v4;
