@@ -12,4 +12,6 @@
 
     hardware.amdgpu.initrd.enable = lib.mkDefault true;
   };
+
+  nixpkgs.config.rocmSupport = lib.mkDefault true;
 }
