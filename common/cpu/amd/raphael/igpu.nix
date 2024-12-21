@@ -23,6 +23,4 @@
       && (lib.versionOlder config.boot.kernelPackages.kernel.version "6.6")
     ) { kernelParams = [ "amdgpu.sg_display=0" ]; })
   ];
-  
-  nixpkgs.config.rocmSupport = lib.mkDefault true;
 }
