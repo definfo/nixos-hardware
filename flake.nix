@@ -56,6 +56,7 @@
         asus-zephyrus-ga503 = import ./asus/zephyrus/ga503;
         asus-zephyrus-gu603h = import ./asus/zephyrus/gu603h;
         asus-zephyrus-gu605my = import ./asus/zephyrus/gu605my;
+        asus-zephyrus-gu603zm = import ./asus/zephyrus/gu603zm;
         beagleboard-pocketbeagle = import ./beagleboard/pocketbeagle;
         chuwi-minibook-x = import ./chuwi/minibook-x;
         deciso-dec = import ./deciso/dec;
