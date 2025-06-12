@@ -7,8 +7,8 @@ NixOS profiles to optimize settings for different hardware.
 Add and update `nixos-hardware` channel:
 
 ```
-$ sudo nix-channel --add https://github.com/NixOS/nixos-hardware/archive/master.tar.gz nixos-hardware
-$ sudo nix-channel --update
+sudo nix-channel --add https://github.com/NixOS/nixos-hardware/archive/master.tar.gz nixos-hardware
+sudo nix-channel --update
 ```
 
 Then import an appropriate profile path from the table below. For example, to
@@ -92,6 +92,7 @@ See code for all available configurations.
 | [Apple MacMini (2010, Intel, Nvidia)](apple/macmini/4)                            | `<nixos-hardware/apple/macmini/4>`                      |
 | [Apple Macs with a T2 Chip](apple/t2)                                             | `<nixos-hardware/apple/t2>`                             |
 | [Aoostar R1 N100](aoostar/r1/n100)                                                | `<nixos-hardware/aoostar/r1/n100>`                      |
+| [Aoostar GEM12 MAX 7840HS](aoostar/gem12-max/7840hs)                                                | `<nixos-hardware/aoostar/gem12-max/7840hs>`                      |
 | [Asus Pro WS X570-ACE](asus/pro-ws-x570-ace)                                      | `<nixos-hardware/asus/pro-ws-x570-ace>`                 |
 | [Asus ROG Ally RC71L (2023)](asus/ally/rc71l)                                     | `<nixos-hardware/asus/ally/rc71l>`                      |
 | [Asus ROG Flow X13 GV302X\* (2023)](asus/flow/gv302x/amdgpu)                      | `<nixos-hardware/asus/flow/gv302x/amdgpu>`              |

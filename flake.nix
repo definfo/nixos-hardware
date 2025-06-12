@@ -13,6 +13,7 @@
         acer-aspire-4810t = import ./acer/aspire/4810t;
         airis-n990 = import ./airis/n990;
         aoostar-r1-n100 = import ./aoostar/r1/n100;
+        aoostar-gem12-max-7840hs = import ./aoostar/gem12-max/7840hs;
         apple-imac-14-2 = import ./apple/imac/14-2;
         apple-imac-18-2 = import ./apple/imac/18-2;
         apple-macbook-air-3 = import ./apple/macbook-air/3;
